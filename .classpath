@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="commons-dbcp-1.4.jar" sourcepath="C:/eclipse-jee-kepler-R-win32/workspace/commons-dbcp-1.4-bin/commons-dbcp-1.4/commons-dbcp-1.4-sources.jar"/>
+	<classpathentry kind="lib" path="commons-pool-1.6.jar" sourcepath="C:/eclipse-jee-kepler-R-win32/workspace/commons-pool-1.6-bin/commons-pool-1.6/commons-pool-1.6-sources.jar"/>
+	<classpathentry kind="lib" path="hsqldb.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="bonecp-0.7.1.RELEASE.jar" sourcepath="C:/eclipse-jee-kepler-R-win32/workspace/bonecp-0.7.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="guava-14.0.1.jar"/>
+	<classpathentry kind="lib" path="slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="slf4j-simple-1.7.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
